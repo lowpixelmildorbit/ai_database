@@ -453,5 +453,46 @@
     ],
     "releaseDate": "2020-05-28",
     "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "A009",
+    "title": "GPT-5.4: コンテキスト拡張とExtreme Reasoning Modeを備えた最新LLM",
+    "summary": "OpenAIが2026年3月に発表したGPT-5.4は、最大100万〜200万トークンのコンテキストウィンドウと、長時間の推論プロセスに特化した「Extreme Reasoning Mode」を搭載した強力なモデル。",
+    "body": "<h3>概要</h3><p>OpenAIは2026年3月5日、GPT-5ファミリーの最新のイテレーションである「GPT-5.4」をリリースしました。本モデルは、以前のバージョンよりも一段と高度な推論能力と長大コンテキスト処理に特化して設計されています。</p><h3>主な特徴</h3><ul><li><strong>コンテキストウィンドウの拡張:</strong> 最大100万〜200万トークンの入力に対応し、長大な文書群やプロジェクトのコード全体を一度に処理することが可能になりました。</li><li><strong>Extreme Reasoning Mode:</strong> 困難な科学的問題や複数ステップを必要とするタスクに対し、自律的により多くの計算資源と時間を投じて解決策を導き出す特別な推論モードです。</li><li><strong>エージェント機能と信頼性の向上:</strong> 数時間から数日に及ぶ長時間の自律的なタスク実行（コーディングやワークフローなど）において、エラー率が大幅に低下し、信頼性が向上しました。</li></ul><h3>ユースケースの広がり</h3><p>プログラミング（Codex連携等）をはじめ、医療や研究開発など、高度で専門的な論理的判断と持続的な情報処理が求められる領域での大幅な業務効率化が期待されています。</p>",
+    "links": [
+      "https://openai.com/"
+    ],
+    "category": "A",
+    "categoryName": "生成モデル・システム",
+    "subcategory": "A-1",
+    "subcategoryName": "テキスト/LLM",
+    "tags": [
+      {
+        "type": "Org",
+        "value": "OpenAI"
+      },
+      {
+        "type": "Tech",
+        "value": "Long Context"
+      },
+      {
+        "type": "Tech",
+        "value": "Reasoning"
+      },
+      {
+        "type": "Tech",
+        "value": "Agentic"
+      },
+      {
+        "type": "Domain",
+        "value": "CS"
+      },
+      {
+        "type": "Status",
+        "value": "2026年"
+      }
+    ],
+    "releaseDate": "2026-03-05",
+    "lastVerified": "2026-03-06"
   }
 ]
