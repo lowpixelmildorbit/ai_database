@@ -45,7 +45,7 @@ cd ai_database
 
 ---
 
-#### Cursor / Windsurf / RooCode / Aider
+#### Cursor / Windsurf / RooCode / Aider / OpenAI Codex
 
 `AGENTS.md` により設定済みです。チャットで以下のように指示します：
 
