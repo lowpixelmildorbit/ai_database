@@ -453,5 +453,51 @@
     ],
     "releaseDate": "2020-05-28",
     "lastVerified": "2026-03-05"
+  },
+  {
+    "id": "A009",
+    "title": "GPT-5.4 mini: 高速・低コストと高度なコンピュータ操作能力を両立した軽量モデル",
+    "summary": "OpenAIが2026年3月に発表したGPT-5.4の軽量版。前世代より2倍高速で、コーディング、推論、マルチモーダル理解に優れ、コンピュータを自律操作するエージェント機能を低コストで提供する。",
+    "body": "<h3>概要</h3><p>OpenAIは2026年3月17日、フラッグシップモデルであるGPT-5.4の軽量・高速バリアント「GPT-5.4 mini」を発表した。GPT-5 miniの後継として、処理速度を2倍以上に向上させつつ、高度な推論、コーディング、マルチモーダル能力を維持しているのが特徴である。</p><h3>主な特徴</h3><ul><li><strong>卓越したパフォーマンス</strong>: 推論やツール利用において大幅な向上を遂げ、特にコーディング性能を測るSWE-Bench Proでは54.4%のスコアを記録（GPT-5 miniの45.69%から向上）。</li><li><strong>コンピュータ操作能力</strong>: テキストと画像の統合理解に優れ、OSWorld-VerifiedベンチマークでGPT-5.4に近い性能を示した。GUIを用いた自律的なブラウジングやドキュメント操作をサポートする。</li><li><strong>低コスト・高スループット</strong>: 応答性が重視される開発ワークロードに最適化されており、入力100万あたり0.75ドル、出力100万あたり4.50ドルの低価格で400kのコンテキストウィンドウを提供する。</li><li><strong>サブエージェントとしての活用</strong>: 大規模な親モデルが計画を担当し、本モデルがコード検索やファイルレビューなどの限定的なタスクを並列処理するサブエージェント構成に適している。</li></ul><h3>提供形態</h3><p>API、Codex、およびChatGPTを通じて一般提供が開始された。ChatGPTでは無料ユーザーやPlusユーザーが「Thinking」機能を通じてアクセス可能であり、推論が必要な際の効率的なフォールバックモデルとしても機能する。</p>",
+    "links": [
+      "https://openai.com/news/gpt-5-4-mini-announcement/",
+      "https://openai.com/index/gpt-5-4-mini/"
+    ],
+    "category": "A",
+    "categoryName": "生成モデル・システム",
+    "subcategory": "A-1",
+    "subcategoryName": "テキスト/LLM",
+    "tags": [
+      {
+        "type": "Org",
+        "value": "OpenAI"
+      },
+      {
+        "type": "Tech",
+        "value": "Agentic"
+      },
+      {
+        "type": "Tech",
+        "value": "SOTA"
+      },
+      {
+        "type": "Tech",
+        "value": "Proprietary"
+      },
+      {
+        "type": "Tech",
+        "value": "API"
+      },
+      {
+        "type": "Domain",
+        "value": "CS"
+      },
+      {
+        "type": "Status",
+        "value": "2026年"
+      }
+    ],
+    "releaseDate": "2026-03-17",
+    "lastVerified": "2026-03-24"
   }
 ]
